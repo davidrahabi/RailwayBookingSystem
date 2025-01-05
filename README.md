@@ -42,7 +42,7 @@ An online railway booking system designed to allow customers to search train sch
 ## Setup
 
 ### **Prerequisites**
-- MySQL Server and Workbench
+- MySQL Server and Workbench: **use "sql" folder to instantiate database locally**
 - Apache Tomcat
 - Java Development Kit (JDK)
 - Eclipse IDE
